@@ -71,9 +71,9 @@ The inspiration behind ALAA stems from the recognition that open-source projects
 
 ## How it Works
 
-[images/FlowChart_Arch_VectorStore.png]<br>
+[[images/FlowChart_Arch_VectorStore.png]]<br>
 First I use "archPDf_VectorStore.py" to create "Arch_Index" vector database using "FAISS" and "Instructor" as embedding tool (How that Worked is shown in the image above) <br>
-[images/FlawChart_app_Chatbot.png]<br>
+[[images/FlawChart_app_Chatbot.png]]<br>
 Then in app.py I import the vectorDatabase and create whole chat UI using stremlit and use OpenAI (ChatOpenAI) to get response using the vector database and embedding. (How that Worked is shown in the image above)
 
 ## Dependencies and Installation
