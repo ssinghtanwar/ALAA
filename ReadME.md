@@ -16,9 +16,9 @@
     <br />
     <br />
     ·
-    <a href="https://github.com/ssinghtanwar/ALAA/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/ssinghtanwar/ALAA/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ssinghtanwar/ALAA/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/ssinghtanwar/ALAA/issues">Request Feature</a>
   </p>
 </div>
 
