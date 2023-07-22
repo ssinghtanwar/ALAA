@@ -139,6 +139,17 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the AGPLv3. See `LICENSE.txt` for more information.
+Copyright (C) 2023 Saurabh Singh Tanwar
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as published
+    by the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
