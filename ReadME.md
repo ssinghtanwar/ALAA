@@ -138,7 +138,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the GPLv3. See `LICENSE.txt` for more information.
+Distributed under the AGPLv3. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
