@@ -113,7 +113,7 @@ To use the ALAA Chat App, follow these steps:
   - [ ] Bedrock Linux
   - [ ] More
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ssinghtanwar/ALAA/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,8 +146,8 @@ Distributed under the GPLv3. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Saurabh Singh Tanwar - [@twitter_handle](https://twitter.com/saurabh49764217) - saurabhstanwar@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/ssinghtanwar/ALAA](https://github.com/ssinghtanwar/ALAA)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
