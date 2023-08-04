@@ -105,7 +105,7 @@ To use the ALAA Chat App, follow these steps:
 
 ## Roadmap
 
-- [ ] Creating and using better Arch wiki PDF
+- [x] Creating and using better Arch wiki PDF (We Used arch.pdf (which was automatically created) instead of Arch_Linux_Wiki_The_distribution.pdf(which was manully created))
 - [ ] Making it completely free (I didn't use LLMs that are free and opensource they need to be finetuned to give good enough results and to do that i will need a far better machine)
 - [ ] Making Other ChatBot that are available for other distros and opensource projects
   - [ ] Gentoo
