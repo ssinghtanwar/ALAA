@@ -45,6 +45,8 @@
 
 <!-- ABOUT THE PROJECT -->
 
+<img src="images/Screenshot 2023-08-04 at 17-12-47 Chat with Arch Linux Assistant.png" alt="FlowChart_Arch_VectorStore"><br><br><br>
+
 ## About The Project
 
 ALAA (Arch Linux AI Assistant) is an innovative open-source chatbot designed to assist users with various aspects of Arch Linux, a popular and advanced Linux distribution known for its simplicity, customization, and user-centric approach. Developed as a proof-of-concept, ALAA aims to bridge the gap between the powerful capabilities of open-source software and the demand for customer support typically associated with proprietary alternatives.
