@@ -1,6 +1,7 @@
 # Environments
 .env
 .venv
+.alaa
 env/
 venv/
 ENV/

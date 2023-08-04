@@ -29,7 +29,7 @@ def export_vector_store(text_chunks):
     
     
 
-pdffile = './Docs/Arch_Linux_Wiki_The_distribution.pdf'
+pdffile = './Docs/arch.pdf'
 
 raw_text = extract_information(pdffile)
 
